@@ -135,7 +135,7 @@ function draw() {
   }
  
 }
-function mousePressed(){
+function mouseReleased(){
   if(turn<=5)
   {
     turn++;
